@@ -40,10 +40,13 @@ img{
     justify-content: block;
 }
 .SBSD{
-    width: 800px;
+        text-align: center;
 }
 .comeback{
     font-size: 20px;
     text-decoration: none;
 }
+.ager{
+    text-align: center;
+}    
 
