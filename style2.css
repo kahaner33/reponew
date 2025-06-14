@@ -36,12 +36,14 @@ h3{
 img{
     border: 2px solid rgb(133, 133, 253);
     border-radius: 10px;
-    text-align: center;
+    display: flex;
+    justify-content: block;
 }
 .SBSD{
-    width: 1600px;
+    width: 800px;
 }
 .comeback{
     font-size: 20px;
+    text-decoration: none;
 }
 
