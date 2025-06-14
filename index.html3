@@ -9,7 +9,7 @@
             <p>вибор, которий опредилит, хочеш ли ти на ту часть сайта</p>
             <nav>
                 <section class="e">
-                <a class="nav_link" href="index.html2">да</a>
+                <a class="nav_link" href="index2.html">да</a>
                 </section>
                 <section class="a">
                 <a class="nav_link2" href="index.html">неа</a>
