@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>вибор!</title>
+        <link rel="stylesheet" href="style.css3">
+    </head>
+    <body>
+        <header>
+            <h1>ВИБОР!!</h1>
+            <p>вибор, которий опредилит, хочеш ли ти на ту часть сайта</p>
+            <nav>
+                <section class="e">
+                <a class="nav_link" href="index.html2">да</a>
+                </section>
+                <section class="a">
+                <a class="nav_link2" href="index.html">неа</a>
+                </section>
+                <p>если ви нажмете 'да' вас отправит на roblox and andrey2, а если 'нет' то тогда обратно на andrey and roblox</p>
+            </nav>
+        </header>
+        <main>
+            <p>етот вибор ведет на andrey and roblox2 или обратно на ту строничку смотря на то какой вариант ответа ви виберете</p>
+        </main>
+        <footer id="footer">
+            <h4>подвальчик</h4>
+            <p>мой номер:</p><h5>068 186 0520</h5>
+            <p>адрес:</p><h5>роздельная, переулок 30 лет победи (щас он по другому називаеться если честно)я не помню номер дома, на конце (или начале) улици, красние ворота</h5>
+        </footer>
+    </body>
+</html>
