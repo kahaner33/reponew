@@ -13,7 +13,7 @@ p{
 }
 main{
     background-color: rgb(133, 133, 253);
-    width: 800px;
+    width: 1600px;
 }
 footer{
     background-color: rgb(89, 89, 235);
@@ -36,9 +36,11 @@ h3{
 img{
     border: 2px solid rgb(133, 133, 253);
     border-radius: 10px;
+    width: 1600px
+    height: 1000px
 }
 .SBSD{
-    width: 800px;
+    width: 1600px;
 }
 .comeback{
     font-size: 20px;
