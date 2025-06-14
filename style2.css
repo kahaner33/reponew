@@ -3,7 +3,6 @@ body {
     display: block;
     justify-content: space-between;
     background-color: lightskyblue;
-    width: 1600px
 }
 h1, h2, h3, h4{
     text-align: center;
@@ -14,7 +13,7 @@ p{
 }
 main{
     background-color: rgb(133, 133, 253);
-    width: 1600px;
+    width: 800px;
 }
 footer{
     background-color: rgb(89, 89, 235);
@@ -37,8 +36,7 @@ h3{
 img{
     border: 2px solid rgb(133, 133, 253);
     border-radius: 10px;
-    width: 1600px
-    height: 1000px
+    text-align: center;
 }
 .SBSD{
     width: 1600px;
